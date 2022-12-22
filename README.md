@@ -1,3 +1,7 @@
+# Deployed Version
+The deployed version can be find at: 
+https://Jasleen8801.github.io/portfolio-website
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
