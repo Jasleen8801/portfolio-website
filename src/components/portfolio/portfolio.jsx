@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG4 from '../../assets/portfolio4.jpeg'
 import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -32,9 +32,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Cookie Clicker Project',
-    github: 'https://github.com/Jasleen8801/Cookie_clicker_project',
-    demo: 'https://cdn.dribbble.com/userupload/2848058/file/original-8b023f833615b8e51893b1f0e3d3c3dd.png?compress=1&crop=0x0-3479x2609&resize=320x240&vertical=top'
+    title: 'Web 3.0 Krypt',
+    github: 'https://github.com/Jasleen8801/web3.0-krypt',
+    demo: 'htpps://Jasleen8801.github.io/web3.0-krypt'
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const data = [
     image: IMG6,
     title: 'Portfolio Website',
     github: 'https://github.com/Jasleen8801/portfolio-website',
-    demo: 'https://cdn.dribbble.com/userupload/2848058/file/original-8b023f833615b8e51893b1f0e3d3c3dd.png?compress=1&crop=0x0-3479x2609&resize=320x240&vertical=top'
+    demo: 'htpps://Jasleen8801.github.io/portfolio-website'
   }
 ]
 
