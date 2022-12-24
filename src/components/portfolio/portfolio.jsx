@@ -48,7 +48,7 @@ const data = [
     image: IMG6,
     title: 'Portfolio Website',
     github: 'https://github.com/Jasleen8801/portfolio-website',
-    demo: 'htpps://jasleen8801.github.io/portfolio-website'
+    demo: 'https://jasleen8801.github.io/portfolio-website'
   }
 ]
 
