@@ -34,7 +34,7 @@ const data = [
     image: IMG4,
     title: 'Web 3.0 Krypt',
     github: 'https://github.com/Jasleen8801/web3.0-krypt',
-    demo: 'htpps://Jasleen8801.github.io/web3.0-krypt'
+    demo: 'https://jasleen8801.github.io/web3.0-krypt'
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const data = [
     image: IMG6,
     title: 'Portfolio Website',
     github: 'https://github.com/Jasleen8801/portfolio-website',
-    demo: 'htpps://Jasleen8801.github.io/portfolio-website'
+    demo: 'htpps://jasleen8801.github.io/portfolio-website'
   }
 ]
 
