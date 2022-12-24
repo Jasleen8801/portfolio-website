@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Deployed Version
 The deployed version can be find at: 
-https://Jasleen8801.github.io/portfolio-website
+https://jasleen8801.github.io/portfolio-website
